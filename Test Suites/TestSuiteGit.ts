@@ -4,7 +4,7 @@
    <name>TestSuiteGit</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2017-10-20T12:14:24</lastRun>
+   <lastRun>2017-10-20T12:15:55</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -28,5 +28,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/testDeteccionAuto</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e284488f-0285-4bd9-938b-cd8b5f6f28e6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestComoUsuarioRemoto</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
