@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteGit,Firefox 56.0,,2017-10-20 12:10:43,2017-10-20 12:11:28,"45,076s",PASSED
+,,,,,,
+Test Cases/TestInicial,Firefox 56.0,Abriremos el navegador e iremos a una url,2017-10-20 12:10:43,2017-10-20 12:11:04,"20,372s",PASSED
+openBrowser,Firefox 56.0,,2017-10-20 12:10:45,2017-10-20 12:11:02,"16,742s",PASSED
+closeBrowser,Firefox 56.0,,2017-10-20 12:11:02,2017-10-20 12:11:04,"1,775s",PASSED
+,,,,,,
+Test Cases/TestInicialRecord,Firefox 56.0,"Lo mismo, pero para tener en la TestSuite mas de un caso, y que se refleje en los \""reports\""",2017-10-20 12:11:04,2017-10-20 12:11:28,"23,766s",PASSED
+openBrowser,Firefox 56.0,,2017-10-20 12:11:05,2017-10-20 12:11:16,"11,669s",PASSED
+navigateToUrl,Firefox 56.0,,2017-10-20 12:11:16,2017-10-20 12:11:21,"4,530s",PASSED
+click,Firefox 56.0,,2017-10-20 12:11:21,2017-10-20 12:11:22,"1,022s",PASSED
+click,Firefox 56.0,,2017-10-20 12:11:22,2017-10-20 12:11:26,"4,442s",PASSED
+closeBrowser,Firefox 56.0,,2017-10-20 12:11:26,2017-10-20 12:11:28,"1,251s",PASSED

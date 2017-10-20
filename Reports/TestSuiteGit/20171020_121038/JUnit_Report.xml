@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteGit" time="45" tests="2" failures="0" errors="0">
+   <testsuite name="TestSuiteGit" tests="2" failures="0" errors="0" time="45" timestamp="2017-10-20 12:10:43" hostname="angel - W10-PRJ" id="Test Suites/TestSuiteGit">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\angel\\git\\testjenkins\\Reports\\TestSuiteGit\\20171020_121038"/>
+         <property name="logFiles" value="C:\\Users\\angel\\git\\testjenkins\\Reports\\TestSuiteGit\\20171020_121038\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="angel - W10-PRJ"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="4.8.0.2"/>
+         <property name="browser" value="Firefox 56.0"/>
+         <property name="hostAddress" value="192.168.110.241"/>
+         <property name="sessionId" value="2cc61813-4579-4bfc-b8d8-d1556e0661cf"/>
+         <property name="seleniumVersion" value="2.53.0"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestInicial" classname="Test Cases/TestInicial" status="PASSED">
+         <system-out><![CDATA[2017-10-20 12:10:43 - [TEST_CASE][PASSED] - Test Cases/TestInicial: Test Cases/TestInicial
+
+2017-10-20 12:10:45 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://opensource.demo.orangehrmlive.com/'
+
+2017-10-20 12:11:02 - [MESSAGE][PASSED] - Browser is opened with url: 'http://opensource.demo.orangehrmlive.com/'
+
+2017-10-20 12:11:02 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2017-10-20 12:11:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestInicialRecord" classname="Test Cases/TestInicialRecord" status="PASSED">
+         <system-out><![CDATA[2017-10-20 12:11:04 - [TEST_CASE][PASSED] - Test Cases/TestInicialRecord: Test Cases/TestInicialRecord
+
+2017-10-20 12:11:05 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-10-20 12:11:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-10-20 12:11:16 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2017-10-20 12:11:21 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2017-10-20 12:11:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2017-10-20 12:11:22 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2017-10-20 12:11:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (1)/button_Login' is clicked on
+
+2017-10-20 12:11:26 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (1)/button_Login' is clicked on
+
+2017-10-20 12:11:26 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2017-10-20 12:11:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2017-10-20 12:10:43 - [TEST_SUITE][PASSED] - TestSuiteGit: Test Cases/TestInicialRecord]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
