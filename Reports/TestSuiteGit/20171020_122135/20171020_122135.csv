@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteGit,Firefox 56.0,,2017-10-20 12:21:40,2017-10-20 12:23:14,"1m - 33,585s",PASSED
+,,,,,,
+Test Cases/TestInicial,Firefox 56.0,Abriremos el navegador e iremos a una url,2017-10-20 12:21:41,2017-10-20 12:22:16,"34,255s",PASSED
+openBrowser,Firefox 56.0,,2017-10-20 12:21:44,2017-10-20 12:22:14,"29,127s",PASSED
+closeBrowser,Firefox 56.0,,2017-10-20 12:22:14,2017-10-20 12:22:16,"2,068s",PASSED
+,,,,,,
+Test Cases/TestInicialRecord,Firefox 56.0,"Lo mismo, pero para tener en la TestSuite mas de un caso, y que se refleje en los \""reports\""",2017-10-20 12:22:16,2017-10-20 12:22:41,"25,475s",PASSED
+openBrowser,Firefox 56.0,,2017-10-20 12:22:16,2017-10-20 12:22:30,"13,443s",PASSED
+navigateToUrl,Firefox 56.0,,2017-10-20 12:22:30,2017-10-20 12:22:34,"4,360s",PASSED
+click,Firefox 56.0,,2017-10-20 12:22:34,2017-10-20 12:22:36,"1,316s",PASSED
+click,Firefox 56.0,,2017-10-20 12:22:36,2017-10-20 12:22:40,"4,435s",PASSED
+closeBrowser,Firefox 56.0,,2017-10-20 12:22:40,2017-10-20 12:22:41,"1,224s",PASSED
+,,,,,,
+Test Cases/testDeteccionAuto,Firefox 56.0,,2017-10-20 12:22:41,2017-10-20 12:23:01,"19,552s",PASSED
+openBrowser,Firefox 56.0,,2017-10-20 12:22:42,2017-10-20 12:22:52,"10,472s",PASSED
+navigateToUrl,Firefox 56.0,,2017-10-20 12:22:52,2017-10-20 12:22:56,"4,214s",PASSED
+click,Firefox 56.0,,2017-10-20 12:22:56,2017-10-20 12:22:57,"0,832s",PASSED
+setText,Firefox 56.0,,2017-10-20 12:22:57,2017-10-20 12:23:00,"2,782s",PASSED
+closeBrowser,Firefox 56.0,,2017-10-20 12:23:00,2017-10-20 12:23:01,"0,847s",PASSED
+,,,,,,
+Test Cases/TestComoUsuarioRemoto,Firefox 56.0,,2017-10-20 12:23:01,2017-10-20 12:23:14,"12,913s",PASSED
+openBrowser,Firefox 56.0,,2017-10-20 12:23:02,2017-10-20 12:23:12,"10,564s",PASSED
+closeBrowser,Firefox 56.0,,2017-10-20 12:23:12,2017-10-20 12:23:14,"1,787s",PASSED
