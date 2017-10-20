@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="TestSuiteGit" time="93" tests="4" failures="0" errors="0">
-   <testsuite name="TestSuiteGit" tests="4" failures="0" errors="0" time="93" timestamp="2017-10-20 12:21:40" hostname="angel - W10-PRJ" id="Test Suites/TestSuiteGit">
+<testsuites name="TestSuiteGit" time="86" tests="4" failures="0" errors="0">
+   <testsuite name="TestSuiteGit" tests="4" failures="0" errors="0" time="86" timestamp="2017-10-20 12:26:58" hostname="angel - W10-PRJ" id="Test Suites/TestSuiteGit">
       <properties>
          <property name="deviceName" value=""/>
          <property name="devicePlatform" value=""/>
-         <property name="logFolder" value="C:\\Users\\angel\\git\\testjenkins\\Reports\\TestSuiteGit\\20171020_122135"/>
-         <property name="logFiles" value="C:\\Users\\angel\\git\\testjenkins\\Reports\\TestSuiteGit\\20171020_122135\\execution0.log"/>
+         <property name="logFolder" value="C:\\Users\\angel\\git\\testjenkins\\Reports\\TestSuiteGit\\20171020_122652"/>
+         <property name="logFiles" value="C:\\Users\\angel\\git\\testjenkins\\Reports\\TestSuiteGit\\20171020_122652\\execution0.log"/>
          <property name="attachments" value=""/>
          <property name="hostName" value="angel - W10-PRJ"/>
          <property name="os" value="Windows 10 64bit"/>
          <property name="katalonVersion" value="4.8.0.2"/>
          <property name="browser" value="Firefox 56.0"/>
          <property name="hostAddress" value="192.168.110.241"/>
-         <property name="sessionId" value="53348cb8-ae32-45df-a7f9-b07710cd8973"/>
+         <property name="sessionId" value="4a7a279a-ef27-44db-995e-0205320e668c"/>
          <property name="seleniumVersion" value="2.53.0"/>
          <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
          <property name="platform" value="Windows 10"/>
       </properties>
       <testcase name="Test Cases/TestInicial" classname="Test Cases/TestInicial" status="PASSED">
-         <system-out><![CDATA[2017-10-20 12:21:41 - [TEST_CASE][PASSED] - Test Cases/TestInicial: Test Cases/TestInicial
+         <system-out><![CDATA[2017-10-20 12:26:58 - [TEST_CASE][PASSED] - Test Cases/TestInicial: Test Cases/TestInicial
 
-2017-10-20 12:21:44 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://opensource.demo.orangehrmlive.com/'
+2017-10-20 12:27:00 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://opensource.demo.orangehrmlive.com/'
 
-2017-10-20 12:22:14 - [MESSAGE][PASSED] - Browser is opened with url: 'http://opensource.demo.orangehrmlive.com/'
+2017-10-20 12:27:20 - [MESSAGE][PASSED] - Browser is opened with url: 'http://opensource.demo.orangehrmlive.com/'
 
-2017-10-20 12:22:14 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+2017-10-20 12:27:20 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
 
-2017-10-20 12:22:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+2017-10-20 12:27:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
       <testcase name="Test Cases/TestInicialRecord" classname="Test Cases/TestInicialRecord" status="PASSED">
-         <system-out><![CDATA[2017-10-20 12:22:16 - [TEST_CASE][PASSED] - Test Cases/TestInicialRecord: Test Cases/TestInicialRecord
+         <system-out><![CDATA[2017-10-20 12:27:22 - [TEST_CASE][PASSED] - Test Cases/TestInicialRecord: Test Cases/TestInicialRecord
 
-2017-10-20 12:22:16 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+2017-10-20 12:27:23 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
 
-2017-10-20 12:22:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+2017-10-20 12:27:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
 
-2017-10-20 12:22:30 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+2017-10-20 12:27:36 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
 
-2017-10-20 12:22:34 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+2017-10-20 12:27:41 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
 
-2017-10-20 12:22:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+2017-10-20 12:27:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
 
-2017-10-20 12:22:36 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+2017-10-20 12:27:42 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
 
-2017-10-20 12:22:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (1)/button_Login' is clicked on
+2017-10-20 12:27:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (1)/button_Login' is clicked on
 
-2017-10-20 12:22:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (1)/button_Login' is clicked on
+2017-10-20 12:27:47 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (1)/button_Login' is clicked on
 
-2017-10-20 12:22:40 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+2017-10-20 12:27:47 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
 
-2017-10-20 12:22:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+2017-10-20 12:27:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
       <testcase name="Test Cases/testDeteccionAuto" classname="Test Cases/testDeteccionAuto" status="PASSED">
-         <system-out><![CDATA[2017-10-20 12:22:41 - [TEST_CASE][PASSED] - Test Cases/testDeteccionAuto: Test Cases/testDeteccionAuto
+         <system-out><![CDATA[2017-10-20 12:27:49 - [TEST_CASE][PASSED] - Test Cases/testDeteccionAuto: Test Cases/testDeteccionAuto
 
-2017-10-20 12:22:42 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+2017-10-20 12:27:49 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
 
-2017-10-20 12:22:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+2017-10-20 12:28:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
 
-2017-10-20 12:22:52 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+2017-10-20 12:28:00 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
 
-2017-10-20 12:22:56 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+2017-10-20 12:28:04 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
 
-2017-10-20 12:22:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (2)/a_Make Appointment' is clicked on
+2017-10-20 12:28:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (2)/a_Make Appointment' is clicked on
 
-2017-10-20 12:22:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (2)/a_Make Appointment' is clicked on
+2017-10-20 12:28:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (2)/a_Make Appointment' is clicked on
 
-2017-10-20 12:22:57 - [TEST_STEP][PASSED] - setText: Text 'Ivan' is set on object 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (3)/input_username'
+2017-10-20 12:28:06 - [TEST_STEP][PASSED] - setText: Text 'Ivan' is set on object 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (3)/input_username'
 
-2017-10-20 12:23:00 - [MESSAGE][PASSED] - Text 'Ivan' is set on object 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (3)/input_username'
+2017-10-20 12:28:08 - [MESSAGE][PASSED] - Text 'Ivan' is set on object 'Object Repository/ObjetosTestRecord/Page_CURA Healthcare Service (3)/input_username'
 
-2017-10-20 12:23:00 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+2017-10-20 12:28:08 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
 
-2017-10-20 12:23:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+2017-10-20 12:28:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
       <testcase name="Test Cases/TestComoUsuarioRemoto" classname="Test Cases/TestComoUsuarioRemoto" status="PASSED">
-         <system-out><![CDATA[2017-10-20 12:23:01 - [TEST_CASE][PASSED] - Test Cases/TestComoUsuarioRemoto: Test Cases/TestComoUsuarioRemoto
+         <system-out><![CDATA[2017-10-20 12:28:09 - [TEST_CASE][PASSED] - Test Cases/TestComoUsuarioRemoto: Test Cases/TestComoUsuarioRemoto
 
-2017-10-20 12:23:02 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+2017-10-20 12:28:10 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
 
-2017-10-20 12:23:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+2017-10-20 12:28:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
 
-2017-10-20 12:23:12 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+2017-10-20 12:28:21 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
 
-2017-10-20 12:23:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+2017-10-20 12:28:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <system-out><![CDATA[2017-10-20 12:21:40 - [TEST_SUITE][PASSED] - TestSuiteGit: Test Cases/TestComoUsuarioRemoto]]></system-out>
+      <system-out><![CDATA[2017-10-20 12:26:58 - [TEST_SUITE][PASSED] - TestSuiteGit: Test Cases/TestComoUsuarioRemoto]]></system-out>
       <system-err><![CDATA[]]></system-err>
    </testsuite>
 </testsuites>
